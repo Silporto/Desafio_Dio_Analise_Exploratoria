@@ -1,8 +1,8 @@
 # Desafio_Dio_Analise_Exploratoria
-Nese Desafio aprendemos a manipular dados com as seguintes bibliotecas:
+Nese Desafio aprendemos a manipular dados em Python no Colab com as seguintes bibliotecas:
 - Pandas
 - Matplotlib
-- FAzer upload de Arquivos
+- Fazer upload de Arquivos
 - Criar DataFrame
 - Visualizar e verificar os tipos de dados
 - Aprendemos a criar colunas
